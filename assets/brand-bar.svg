@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 6" preserveAspectRatio="none" role="img" aria-label="Trestle brand accent bar">
+  <defs>
+    <linearGradient id="trestle" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#A2F0EC"/>
+      <stop offset="25%"  stop-color="#44DAD3"/>
+      <stop offset="55%"  stop-color="#0494B4"/>
+      <stop offset="80%"  stop-color="#00485A"/>
+      <stop offset="100%" stop-color="#163545"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="6" fill="url(#trestle)"/>
+</svg>
