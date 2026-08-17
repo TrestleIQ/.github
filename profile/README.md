@@ -76,6 +76,13 @@
       <p><code>POST /1.0/phone_feedback</code> &nbsp;·&nbsp; <a target="_blank" rel="noopener noreferrer" href="https://docs.trestleiq.com/api-reference/phone-feedback-api">Reference&nbsp;→</a></p>
     </td>
     <td width="50%" valign="top">
+      <h3>Decision Signals API</h3>
+      <p>Aggregates name, phone, address, email, and IP data across primary and secondary identity profiles in a single request to verify identity and evaluate risk.</p>
+      <p><code>GET /1.0/decision_signals</code> &nbsp;·&nbsp; <a target="_blank" rel="noopener noreferrer" href="https://docs.trestleiq.com/api-reference/decision-signals-api">Reference&nbsp;→</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>Ready to build?</h3>
       <p>Sign up for a key, drop your first request, and you're live in under five minutes.</p>
       <p><a target="_blank" rel="noopener noreferrer" href="https://portal.trestleiq.com/signup"><strong>portal.trestleiq.com&nbsp;→</strong></a></p>
